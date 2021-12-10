@@ -1,0 +1,11 @@
+apiVersion: v2
+name: theia
+description: A Helm chart for Theia IDE
+
+type: application
+
+version: 0.1.0
+
+appVersion: "1.0.0-SNAPSHOT"
+
+icon: https://symbols.getvecta.com/stencil_97/99_theia-icon.b5d1aca12b.png
